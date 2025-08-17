@@ -1,0 +1,8 @@
+# Ignore environment file in the backend directory
+backend/.env
+backend/__pycache__/
+
+# Optional: Ignore other common Python files/folders
+__pycache__/
+venv/
+*.pyc
