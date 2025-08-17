@@ -1,14 +1,18 @@
 <div align="center">
-<img src="icon.png" alt="لوگوی پاسخ‌یار کوئرا" width="128"/>
-<h1>CodeCruncher</h1>
-<p>
-<b>کد نهایی سوال را با یک کلیک دریافت کنید!</b>
-</p>
+<img src="icon.png" alt="لوگوی پاسخ‌یار کوئرا" width="128" style="margin-top:10px;" />
+<h1>⚡ CodeCruncher ⚡</h1>
+<p><b>کد نهایی سوال را با یک کلیک دریافت کنید!</b></p>
+<br>
+<!-- دموی گیف -->
+<img src="solve.gif" alt="دموی پاسخ‌یار کوئرا" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2);" />
+
+
+
+<!-- لوگو -->
+
+
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/demo.gif" alt="دموی پاسخ‌یار کوئرا"/>
-</div>
 
 #### هیولای کدخور 👹
 به جای اینکه با کدهای اولیه و خسته‌کننده سر و کله بزنی، اجازه بده این هیولای بامزه اون‌ها رو برات هورت بکشه. اینطوری تو می‌تونی مغزت رو برای فهمیدن منطق اصلی مسئله آزاد بذاری و با یه کلیک، یه راه حل آماده تحویل بگیری!
