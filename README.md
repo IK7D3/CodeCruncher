@@ -1,21 +1,28 @@
 <div align="center">
-<img src="icon.png" alt="لوگوی پاسخ‌یار کوئرا" width="128" style="margin-top:10px;" />
-<h1>⚡ CodeCruncher ⚡</h1>
-<p><b>کد نهایی سوال را با یک کلیک دریافت کنید!</b></p>
-<br>
-<!-- دموی گیف -->
-<img src="solve.gif" alt="دموی پاسخ‌یار کوئرا" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2);" />
 
+<div style="display: flex; align-items: center; justify-content: center; gap: 2px;">
 
-
-<!-- لوگو -->
+  <div>
+    <img src="icon.png" alt="هیولای کدخور" width="128" />
+  </div>
+  <div style="text-align: left;">
+    <h1>هیولای کدخور</h1>
+    <p><b>سوالات کوئرا رو با یه کلیک قورت بده!</b></p>
+  </div>
 
 
 </div>
 
+<br>
 
-#### هیولای کدخور 👹
-به جای اینکه با کدهای اولیه و خسته‌کننده سر و کله بزنی، اجازه بده این هیولای بامزه اون‌ها رو برات هورت بکشه. اینطوری تو می‌تونی مغزت رو برای فهمیدن منطق اصلی مسئله آزاد بذاری و با یه کلیک، یه راه حل آماده تحویل بگیری!
+<img src="solve.gif" alt="دموی هیولای کدخور" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2);" />
+
+</div>
+
+
+
+
+
 
 #### ⚙️ نصب و راه‌اندازی
 
@@ -27,9 +34,8 @@ _این پروژه از مدل زبان Cohere برای تولید کد استف
 
 از داشبورد خود یک Trial Key (کلید آزمایشی) دریافت کنید.
 
-در پوشه backend، یک کپی از فایل env.example بسازید و نام آن را به .env تغییر دهید.
+در پوشه backend، یک فایل .env بسازید و کلید API خود را در آن قرار دهید:
 
-فایل .env را باز کرده و کلید API خود را در آن قرار دهید:
 ```bash
 GOOGLE_API_KEY="PASTE_YOUR_COHERE_API_KEY_HERE"
 ```
@@ -55,5 +61,5 @@ uvicorn main:app --reload
 
 منتظر بمانید تا فرآیند تکمیل شود و فایل solution.py به صورت خودکار دانلود گردد!
 
-_آپلود کن 100 بگیر :)_
+_آپلود کن 100 بگیر 🔥_
 
