@@ -1,5 +1,6 @@
 fastapi
 uvicorn[standard]
 langchain-cohere
+langchain_core
 python-dotenv
 pydantic
